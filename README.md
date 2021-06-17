@@ -13,5 +13,5 @@ Bugs a serem corrigidos em próximas versões:
 - Algumas naves nascem em lugares inatingíveis.
 
 ## Para rodar o projeto
-LINK: .
+LINK: https://leoalmdiniz.github.io/case_SpaceShooter/.
 
